@@ -109,7 +109,7 @@ p {
     border-top-right-radius: var(--bd-rad);
     border-bottom-right-radius: var(--bd-rad);
 }
-.stat-image img {    
+.stat-image span {    
     content: url(images/image-header-desktop.jpg);
 
     mix-blend-mode: multiply;
@@ -174,7 +174,7 @@ p {
         border-bottom-right-radius: 0;
     }
 
-    .stat-image img {
+    .stat-image span {
         content: url(images/image-header-mobile.jpg);
 
         width: 100%;
